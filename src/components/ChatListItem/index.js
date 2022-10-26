@@ -20,10 +20,16 @@ const ChatListItem = () => {
 };
 
 const styles = StyleSheet.create({
+    container: {},
     image: {
         width: 60,
         height: 60,
-    }
-})
+        borderRadius: 30,
+    },
+    container: {},
+    row: {},
+    name: {},
+    subTitle: {},
+});
 
 export default ChatListItem;
