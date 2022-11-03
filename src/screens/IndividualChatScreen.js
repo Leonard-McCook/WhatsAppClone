@@ -1,6 +1,6 @@
 import { Text, ImageBackground, StyleSheet, FlatList } from "react-native";
 import Message from "../components/Message";
-import messages from '../components/InputBox';
+import InputBox from '../components/InputBox';
 
 import bg from "../../assets/images/BG.png";
 import messages from '../../assets/data/messages.json';
